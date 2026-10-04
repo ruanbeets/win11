@@ -1,0 +1,13 @@
+{
+  "removeApps": [
+    "Clipchamp.Clipchamp", "Microsoft.BingNews", "Microsoft.BingWeather",
+    "Microsoft.GetHelp", "Microsoft.Getstarted", "Microsoft.MicrosoftSolitaireCollection",
+    "Microsoft.WindowsFeedbackHub", "Microsoft.People", "Microsoft.Microsoft3DViewer",
+    "Microsoft.MixedReality.Portal", "Microsoft.SkypeApp", "Microsoft.549981C3F5F10",
+    "Microsoft.WindowsMaps", "Microsoft.ZuneMusic", "Microsoft.ZuneVideo", "Microsoft.Todos"
+  ],
+  "disableStartupValues": ["Docker Desktop", "Steam", "EADM", "EpicGamesLauncher", "GOG Galaxy", "Battle.net", "CanvaAutoLaunchAvailabilityCheckAgent"],
+  "disableStartupShortcuts": ["Ollama.lnk", "Send to OneNote.lnk"],
+  "powerPlan": "HighPerformance",
+  "ssdRetrim": true
+}
